@@ -1,0 +1,16 @@
+{
+  "CourseName": "Angielski",
+  "CourseDateOfStart": "2017-03-07T00:00:00",
+  "HomeworkThreshold": 60,
+  "PresenceThreshold": 90,
+  "TextPresence": "--Obecnosc--",
+  "TextHomework": "--Praca Domowa--",
+  "PresenceList": [
+    "Jakub Gerlee 3/4 (75%)  -niezaliczone",
+    "Ela Durek 1/4 (25%)  -niezaliczone"
+  ],
+  "HomeworkList": [
+    "Jakub Gerlee 37/50 (74%) -zaliczone",
+    "Ela Durek 30/50 (60%) -zaliczone"
+  ]
+}

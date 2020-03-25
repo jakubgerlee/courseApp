@@ -1,0 +1,17 @@
+{
+  "CourseName": "Angielski",
+  "CourseDateOfStart": "1992-02-02T00:00:00",
+  "TeacherName": "Michal Bulczak",
+  "HomeworkThreshold": 70,
+  "PresenceThreshold": 70,
+  "TextPresence": "--Obecnosc--",
+  "TextHomework": "--Praca Domowa--",
+  "PresenceList": [
+    "Jakub Gerlee 6/7 (85%)  -zaliczone",
+    "Ela Durek 5/7 (71%)  -zaliczone"
+  ],
+  "HomeworkList": [
+    "Jakub Gerlee 110/150 (73%) -zaliczone",
+    "Ela Durek 133/150 (88%) -zaliczone"
+  ]
+}

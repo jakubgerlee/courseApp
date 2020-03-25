@@ -1,0 +1,19 @@
+{
+  "CourseName": "C#_NowyKurs_KG",
+  "CourseDateOfStart": "2019-02-02T00:00:00",
+  "TeacherName": "Kubik Śrubik",
+  "HomeworkThreshold": 50,
+  "PresenceThreshold": 40,
+  "TextPresence": "--Obecnosc--",
+  "TextHomework": "--Praca Domowa--",
+  "PresenceList": [
+    "J G 4/4 (100%)  -zaliczone",
+    "E D 3/4 (75%)  -zaliczone",
+    "Ania Kowalczyk 1/4 (25%)  -niezaliczone"
+  ],
+  "HomeworkList": [
+    "J G 64/115 (55%) -zaliczone",
+    "E D 70/115 (60%) -zaliczone",
+    "Ania Kowalczyk 70/115 (60%) -zaliczone"
+  ]
+}
